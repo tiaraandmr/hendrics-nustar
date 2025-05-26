@@ -1,0 +1,9 @@
+name: hendrics-nustar
+dependencies:
+  - hendrics 
+  - numba 
+  - emcee 
+  - statsmodels 
+  - netcdf4 
+  - matplotlib 
+  - stingray>=1.1
