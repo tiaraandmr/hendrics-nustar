@@ -1,0 +1,1 @@
+Utilize [HENDRICS v8.1](https://hendrics.stingray.science/en/latest/) to extract 1-second bin light curves from NuSTAR FPMA observation-long X-ray archival data based on good time intervals (GTIs) with a minimum length of 800 seconds. Additional statistics will be generated with the light curves, such as fractional rms and hardness ratios.
